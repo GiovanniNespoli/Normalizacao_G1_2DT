@@ -1,16 +1,4 @@
-Normalização G1
-
-
-
-
- _   _                            _ _               /\/|       
- | \ | |                          | (_)             |/\/        
- |  \| | ___  _ __ _ __ ___   __ _| |_ ______ _  ___ __ _  ___  
- | . ` |/ _ \| '__| '_ ` _ \ / _` | | |_  / _` |/ __/ _` |/ _ \ 
- | |\  | (_) | |  | | | | | | (_| | | |/ / (_| | (_| (_| | (_) |
- |_| \_|\___/|_|  |_| |_| |_|\__,_|_|_/___\__,_|\___\__,_|\___/   [ G1 ]
-                                                 )_)            
- 
+• Normalização G1
  
 - Link explicativo da utilização da Normalização:
 https://medium.com/@diegobmachado/normaliza%C3%A7%C3%A3o-em-banco-de-dados-5647cdf84a12
