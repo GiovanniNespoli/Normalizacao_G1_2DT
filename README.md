@@ -8,3 +8,9 @@ https://docs.microsoft.com/pt-br/office/troubleshoot/access/database-normalizati
  
 - Playlist do YouTube com todo conteúdo sobre Modelagem de dados (onde se inclui a Normalização):
 https://www.youtube.com/watch?v=NpG1Xt8LB_c&list=PLucm8g_ezqNoNHU8tjVeHmRGBFnjDIlxD&index=16
+
+-Vantagens/Desvantagens:
+https://docs.google.com/document/d/1uG1bO6oZdTGX72fOh2d5jzc5dZg6GioS9Co7QA3MkHU/edit
+
+-Trello:
+https://trello.com/b/mOarPkqv/normalização
